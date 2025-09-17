@@ -1,0 +1,4 @@
+Model,CV Accuracy,CV F1-Score,Test Accuracy,Test F1-Score,Test Precision,Test Recall,ROC-AUC,Training Time
+Naive_Bayes,0.9565 ± 0.0102,0.8483 ± 0.0328,0.9444,0.8063,0.7544,0.8658,0.9573,6.98s
+Logistic_Regression,0.9845 ± 0.0045,0.9405 ± 0.0177,0.9830,0.9343,0.9643,0.9060,0.9959,8.54s
+Random_Forest,0.9814 ± 0.0054,0.9252 ± 0.0231,0.9803,0.9203,1.0000,0.8523,0.9909,878.60s

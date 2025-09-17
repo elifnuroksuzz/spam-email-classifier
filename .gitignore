@@ -1,0 +1,10 @@
+# Large data files
+   *.npy
+   data/processed/*.npy
+   
+   # Model cache
+   __pycache__/
+   *.pyc
+   
+   # Large datasets
+   data/raw/

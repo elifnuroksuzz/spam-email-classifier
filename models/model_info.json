@@ -1,0 +1,17 @@
+{
+  "model_type": "Logistic Regression",
+  "training_date": "2025-09-17 19:41:00",
+  "version": "1.0",
+  "performance": {
+    "accuracy": 0.983,
+    "f1_score": 0.9343,
+    "precision": 0.9643,
+    "recall": 0.906,
+    "roc_auc": 0.9959
+  },
+  "features": {
+    "tfidf_features": 5000,
+    "numeric_features": 5,
+    "total_features": 5005
+  }
+}
